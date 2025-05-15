@@ -34,7 +34,7 @@ def listing_create(request):
 
 def listing_update(request, pk):
     listing = Listing.objects.get(id=pk)
-    form = ListingForm()
+    form = ListingForm(instance=listing)
     if request.method == "POST":
         form = ListingForm(request.POST, instance=listing)
         if form.is_valid():

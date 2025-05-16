@@ -27,10 +27,11 @@ def listing_create(request):
             form.save()  
             return redirect("/")
 
+
     context = {
         "form": form
     }
-    
+    return render(request, "create.html", context)
 
 def listing_update(request, pk):
     listing = Listing.objects.get(id=pk)
@@ -39,7 +40,7 @@ def listing_update(request, pk):
         form = ListingForm(request.POST, instance=listing, files=request.FILES)
         if form.is_valid():
             form.save()  
-            return redirect("/")
+            return redirect("/") 
 
     context = {
         "form": form

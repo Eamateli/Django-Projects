@@ -6,7 +6,7 @@ A simple project to manage property listings.
 </p>
 
 
-## ✨ Features
+## Features
 - Perform full CRUD operations
 
 - Create, update, delete, and view listings

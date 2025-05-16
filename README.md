@@ -15,7 +15,7 @@
 <details>
   <summary>🌿 Intermediate</summary>
   <ul>
-    <li><a href="#" target="_blank">E-commerce Site</a></li>
+    <li><a href="https://github.com/Eamateli/Circle" target="_blank">Circle</a></li>
     <li><a href="#" target="_blank">Job Board</a></li>
   </ul>
 </details>

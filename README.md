@@ -1,4 +1,5 @@
-# <img src="https://www.pngaaa.com/detail/4169339" width="45" height="45" /> Django Projects
+# <img src="https://www.pngaaa.com/download/4169339" width="45" height="45" /> Django Projects
+
 
 
 <details>

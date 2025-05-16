@@ -1,4 +1,4 @@
-# <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="100" /> Django Projects
+# <img src=["https://static.djangoproject.com/img/logos/django-logo-negative.svg](https://www.pngaaa.com/detail/4169363) width="100" /> Django Projects
 
 <details>
   <summary>🌱 Beginner</summary>

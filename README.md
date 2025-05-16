@@ -4,7 +4,7 @@
 <details>
   <summary>🌱 Beginner</summary>
   <ul>
-    <li><a href="#" target="_blank">Blog App</a></li>
+    <li><a href="https://github.com/Eamateli/Django-Projects/tree/main/Beginner/real_estate" target="_blank">Real Estate App</a></li>
     <li><a href="#" target="_blank">To-Do List</a></li>
   </ul>
 </details>

@@ -15,3 +15,10 @@ A simple project to manage property listings.
 
 - View listing details
 
+## ⚙️ Getting Started
+
+### 📥 Clone the repo
+
+```bash
+git clone https://github.com/Eamateli/Django-Projects.git
+cd Django-Projects/Beginner/real_estate

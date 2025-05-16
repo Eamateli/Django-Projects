@@ -1,4 +1,4 @@
-# <img src="https://www.pngaaa.com/download/4169339" width="45" height="45" /> Django Projects
+# <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="45" height="45" /> Django Projects
 
 
 

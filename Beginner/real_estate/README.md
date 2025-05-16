@@ -15,10 +15,28 @@ A simple project to manage property listings.
 
 - View listing details
 
-## ⚙️ Getting Started
+##  Getting Started
 
-### 📥 Clone the repo
-
+### Clone the repo
 ```bash
 git clone https://github.com/Eamateli/Django-Projects.git
-cd Django-Projects/Beginner/real_estate
+cd <path to project>
+```
+
+### Create and activate a virtual environment
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Run migrations and start the server
+```bash
+python manage.py migrate
+python manage.py runserver
+```
+
